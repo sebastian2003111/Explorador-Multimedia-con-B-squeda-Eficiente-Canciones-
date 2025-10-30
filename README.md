@@ -71,20 +71,3 @@ Este enfoque reduce el tiempo de búsqueda y demuestra la aplicación práctica 
 ---
 
 
-## 🚀 Ejemplo de Uso
-
-**Ejecución desde consola:**
-
-=== EXPLORADOR DE MÚSICA ===
-
-1.Agregar canción
-2.Buscar canción
-3.Eliminar canción
-4.Listar canciones
-0.Salir
-Seleccione una opción: 1
-Nombre: Lonely
-Artista: Justin Bieber
-Género: Pop
-Año: 2021
- Canción registrada con éxito.
